@@ -1,7 +1,8 @@
 # Menubar
  Menubar using Tkinter in PYTHON.
 # PYTHON :
-Tkinter >>
+***Tkinter***
+
 Tkinter is the Standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to Create GUI applications.Tkinter provides a powerful object_oriented interface to the Tk GUI toolkit.
 You can also add widgets to your GUI Application.
 
@@ -12,4 +13,4 @@ I have made a Text Editor after modifing this code.I would later on Add the Text
 
 # Thanks for visiting my Repository
 keep visiting....
-- Dhriti Roy
+***- Dhriti Roy***

@@ -1,5 +1,5 @@
 # Menubar
- Menubar using Tkinter in PYTHON.
+ ***Menubar is a Tkinter Application base.***
 # PYTHON :
 ***Tkinter***
 

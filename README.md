@@ -12,5 +12,5 @@ Using this simple code you can make a Simple Menubarand and later on you can mod
 I have made a Text Editor after modifing this code.I would later on Add the Text Editor also on my Respository.
 
 # Thanks for visiting my Repository
-keep visiting....
+keep visiting.....
 ***- Dhriti Roy***

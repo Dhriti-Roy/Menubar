@@ -1,6 +1,6 @@
 # Menubar
  ***Menubar is a Tkinter Application base.***
-# PYTHON :
+# PYTHON :-
 ***Tkinter***
 
 Tkinter is the Standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to Create GUI applications.Tkinter provides a powerful object_oriented interface to the Tk GUI toolkit.

@@ -13,4 +13,4 @@ I have made a Text Editor after modifing this code.I would later on Add the Text
 
 # Thanks for visiting my Repository
 keep visiting.....
-***- Dhriti Roy***
+*** - Dhriti Roy***

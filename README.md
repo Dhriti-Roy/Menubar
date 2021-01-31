@@ -11,6 +11,3 @@ This is my first Project on Github. This Project is a base for building up rest 
 Using this simple code you can make a Simple Menubarand and later on you can modify this or change it into any different project.
 I have made a Text Editor after modifing this code.I would later on Add the Text Editor also on my Respository.
 
-# Thanks for visiting my Repository
-keep visiting.....
-*** - Dhriti Roy***
